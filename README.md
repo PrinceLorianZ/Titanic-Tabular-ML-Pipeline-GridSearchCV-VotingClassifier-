@@ -35,7 +35,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 2) Run training and evaluation
 python model_comparison_voting.py
-
+```
 
 After running, the test-set confusion matrix images will be saved under assets/ (for README display).
 
